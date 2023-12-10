@@ -1,7 +1,7 @@
 # ko_llamafile
 
 - 한국어 LLM 모델 적용 테스트
-- [ko_mistral.llamafile(3.98GB)](https://github.com/daily-kim/llamafile_ko)
+- [ko_mistral.llamafile(3.98GB)](https://huggingface.co/de1030/komt-mistral-7b.llamafile)
 - original model from [HERE](https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf)
 - Readme Translated by [ChatGPT Markdown Translator](https://github.com/smikitky/chatgpt-md-translator)
 
