@@ -202,13 +202,13 @@
     var slot_id = -1;
 
     const session = signal({
-      prompt: "This is a conversation between User and Llama, a friendly chatbot. Llama is helpful, kind, honest, good at writing, and never fails to answer any requests immediately and with precision.",
+      prompt: "이 대화는 사용자와 친근한 챗봇인 라마가 나눈 대화입니다. 라마는 도움이 되고, 친절하며, 정직하고, 글을 잘 쓰며, 어떤 요청에도 즉각적이고 정확하게 답변합니다.",
       template: "{{prompt}}\n\n{{history}}\n{{char}}:",
       historyTemplate: "{{name}}: {{message}}",
       transcript: [],
       type: "chat",  // "chat" | "completion"
-      char: "Llama",
-      user: "User",
+      char: "라마",
+      user: "사용자",
       image_selected: ''
     })
 
@@ -1003,4 +1003,3 @@
 </body>
 
 </html>
-

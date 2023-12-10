@@ -9,3 +9,6 @@
 /perf.data.old
 
 /*.log
+
+/*.gguf
+/*.llamafile
