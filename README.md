@@ -1,4 +1,11 @@
-# llamafile
+# ko_llamafile
+
+- 한국어 LLM 모델 적용 테스트
+- [ko_mistral.llamafile(3.98GB)](https://github.com/daily-kim/llamafile_ko)
+- original model from [HERE](https://huggingface.co/davidkim205/komt-mistral-7b-v1-gguf)
+- Readme Translated by [ChatGPT Markdown Translator](https://github.com/smikitky/chatgpt-md-translator)
+
+# llamafile(번역중)
 
 <img src="llamafile/llamafile-640x640.png" width="320" height="320"
      alt="[line drawing of llama animal head in front of slightly open manilla folder filled with files]">
